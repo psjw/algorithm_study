@@ -2,7 +2,7 @@ package inflearn.pccp.section07;
 
 import java.util.Arrays;
 
-public class H_Index풀이 {
+public class HIndex풀이 {
     public static void main(String[] args) {
         System.out.println(solution(new int[]{3, 0, 6, 1, 5}));
         System.out.println(solution(new int[]{5, 5, 6, 5, 5, 6}));

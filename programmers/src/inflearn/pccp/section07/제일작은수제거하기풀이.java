@@ -2,7 +2,7 @@ package inflearn.pccp.section07;
 
 import java.util.Arrays;
 
-public class 제일작은수제거하기_풀이 {
+public class 제일작은수제거하기풀이 {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(solution(new int[]{4,3,2,1})));
         System.out.println(Arrays.toString(solution(new int[]{10})));

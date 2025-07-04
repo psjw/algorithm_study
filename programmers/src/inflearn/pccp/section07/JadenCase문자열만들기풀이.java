@@ -1,6 +1,6 @@
 package inflearn.pccp.section07;
 
-public class JadenCase문자열만들기_풀이 {
+public class JadenCase문자열만들기풀이 {
     public static void main(String[] args) {
         System.out.println(solution("3people unFollowed me"));
         System.out.println(solution(" 3people unFollowed me"));
