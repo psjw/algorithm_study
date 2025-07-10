@@ -1,4 +1,4 @@
-package book.Doit알고리즘.graph;
+package book.DoIt_알고리즘.graph;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package book.Doit알고리즘.twopointer;
+package book.DoIt_알고리즘.two_pointer;
 
 import java.io.*;
 

@@ -1,4 +1,4 @@
-package book.Doit알고리즘.greedy;
+package book.DoIt_알고리즘.greedy;
 
 import java.io.*;
 import java.util.StringTokenizer;

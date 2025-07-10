@@ -1,4 +1,4 @@
-package book.Doit알고리즘.prefixsum;
+package book.DoIt_알고리즘.prefixsum;
 
 import java.io.*;
 import java.util.StringTokenizer;

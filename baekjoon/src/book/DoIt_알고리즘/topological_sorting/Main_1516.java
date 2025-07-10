@@ -1,4 +1,4 @@
-package book.Doit알고리즘.topologicalsorting;
+package book.DoIt_알고리즘.topological_sorting;
 
 import java.io.*;
 import java.util.*;

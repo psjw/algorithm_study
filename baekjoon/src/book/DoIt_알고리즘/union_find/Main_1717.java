@@ -1,4 +1,4 @@
-package book.Doit알고리즘.unionfind;
+package book.DoIt_알고리즘.union_find;
 
 import java.io.*;
 
