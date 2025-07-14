@@ -1,4 +1,4 @@
-package book.DoIt_알고리즘.prefixsum;
+package book.DoIt_알고리즘.prefix_sum;
 
 import java.io.*;
 import java.util.Arrays;
