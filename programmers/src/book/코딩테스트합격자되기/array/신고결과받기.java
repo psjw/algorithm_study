@@ -1,7 +1,6 @@
-package book.코딩테스트합격자되기;
+package book.코딩테스트합격자되기.array;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class 신고결과받기 {
     public static void main(String[] args) {

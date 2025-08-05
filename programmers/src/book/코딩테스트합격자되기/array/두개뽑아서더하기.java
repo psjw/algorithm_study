@@ -1,4 +1,4 @@
-package book.코딩테스트합격자되기;
+package book.코딩테스트합격자되기.array;
 
 import java.util.Arrays;
 import java.util.HashSet;
